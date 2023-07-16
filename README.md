@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on [iplan](https://github.com/iman-salmani/iplan). it's a application for planning personal life and workflow.
+- 🔭 I'm currently working on [IPlan](https://github.com/iman-salmani/iplan). it's a application for planning personal life and workflow.
 <!--
 - 📫 How to reach me:
 
